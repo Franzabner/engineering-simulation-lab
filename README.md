@@ -1,12 +1,12 @@
 # Engineering Simulation Lab
 
 Status: scaffolded
-Publication state: local-only
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`engineering-simulation-lab` is a local-only Phase 4 scaffold for public-safe Python engineering simulation and validation studies. It organizes synthetic assumptions, model boundaries, inputs, outputs, reports, and review checklists for thermal, airflow, power, control, and system-level studies.
+`engineering-simulation-lab` is a published Phase 4 public scaffold for public-safe Python engineering simulation and validation studies. It organizes synthetic assumptions, model boundaries, inputs, outputs, reports, and review checklists for thermal, airflow, power, control, and system-level studies.
 
 ## What This Repo Is Not
 
@@ -17,10 +17,11 @@ This repo is not a released benchmark suite, certified engineering package, prod
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | local-only |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `studies/synthetic-thermal-airflow-power-study.md` scaffolded |
+| Published artifact | scaffolded |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -70,8 +71,8 @@ This repository contains public-safe synthetic simulation and validation studies
 
 ## Links Back After Public Creation
 
-After later human approval and public creation, this repo may be linked from `Franzabner` and `franzabner-proof-stack` as a scaffolded public proof surface only. It must not be marked released or proof-complete.
+Profile routing and proof-stack routing are planned. Any `Franzabner` or `franzabner-proof-stack` link must be handled in a separate reviewed routing patch. This repo must not be marked released or proof-complete.
 
 ## First Build Task
 
-Completed as a scaffolded local artifact: `studies/synthetic-thermal-airflow-power-study.md`. It includes a problem statement, synthetic system context, assumptions table, synthetic input references, model boundary, simplified method, synthetic output table, generated report plan, Mermaid validation diagram, validation questions, what this proves, what this does not prove, public/private/sealed checklist, and `Status: scaffolded`.
+Published artifact: scaffolded. `studies/synthetic-thermal-airflow-power-study.md` includes a problem statement, synthetic system context, assumptions table, synthetic input references, model boundary, simplified method, synthetic output table, generated report plan, Mermaid validation diagram, validation questions, what this proves, what this does not prove, public/private/sealed checklist, and `Status: scaffolded`.

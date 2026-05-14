@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repository is a local-only Phase 4 scaffold for public-safe engineering simulation and validation studies.
+This repository is a published Phase 4 public scaffold for public-safe engineering simulation and validation studies.
 
 ## Operating Rules
 
@@ -13,6 +13,5 @@ This repository is a local-only Phase 4 scaffold for public-safe engineering sim
 ## Current Posture
 
 Status: scaffolded
-Publication state: local-only
+Publication state: public scaffold
 Release state: not released
-

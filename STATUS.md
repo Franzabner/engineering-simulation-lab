@@ -1,16 +1,16 @@
 # Status
 
 Status: scaffolded
-Publication state: local-only
+Publication state: public scaffold
 Release state: not released
 
 | Item | State |
 | --- | --- |
 | Local scaffold | scaffolded |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `studies/synthetic-thermal-airflow-power-study.md` scaffolded |
-| Remote | none |
-| Published artifact | private/not-public |
+| Remote | origin configured |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
