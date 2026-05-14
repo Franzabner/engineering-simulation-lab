@@ -1,0 +1,19 @@
+{
+  "status": "scaffolded",
+  "source": "synthetic/public-safe",
+  "states": [
+    {
+      "name": "observe",
+      "description": "Collect synthetic state labels for review."
+    },
+    {
+      "name": "evaluate",
+      "description": "Compare synthetic demand against synthetic capacity."
+    },
+    {
+      "name": "review",
+      "description": "Route result to human validation before any claim."
+    }
+  ]
+}
+
