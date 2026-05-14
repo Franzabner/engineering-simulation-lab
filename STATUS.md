@@ -8,6 +8,7 @@ Release state: not released
 | --- | --- |
 | Local scaffold | scaffolded |
 | Public GitHub repo | not created |
+| First artifact | `studies/synthetic-thermal-airflow-power-study.md` scaffolded |
 | Remote | none |
 | Published artifact | private/not-public |
 | Released artifact | not released |
@@ -18,4 +19,3 @@ Release state: not released
 Approved status vocabulary: `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, `private/not-public`.
 
 This repo does not claim benchmark results, physical validation, deployment, certification, product readiness, model release, dataset release, Space release, or proof completion.
-

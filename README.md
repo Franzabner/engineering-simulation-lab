@@ -20,6 +20,7 @@ This repo is not a released benchmark suite, certified engineering package, prod
 | Publication state | local-only |
 | Release state | not released |
 | Public GitHub repo | not created |
+| First artifact | `studies/synthetic-thermal-airflow-power-study.md` scaffolded |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -73,5 +74,4 @@ After later human approval and public creation, this repo may be linked from `Fr
 
 ## First Build Task
 
-Create or complete `studies/synthetic-thermal-airflow-power-study.md` with a synthetic context, assumptions table, input references, model boundary, simplified method, synthetic output table, generated report plan, Mermaid validation diagram, validation questions, what this proves, what this does not prove, boundary checklist, and `Status: scaffolded`.
-
+Completed as a scaffolded local artifact: `studies/synthetic-thermal-airflow-power-study.md`. It includes a problem statement, synthetic system context, assumptions table, synthetic input references, model boundary, simplified method, synthetic output table, generated report plan, Mermaid validation diagram, validation questions, what this proves, what this does not prove, public/private/sealed checklist, and `Status: scaffolded`.
