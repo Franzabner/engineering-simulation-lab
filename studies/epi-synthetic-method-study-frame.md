@@ -62,3 +62,14 @@ This scaffold does not prove:
 ## Review Gate
 
 Any movement from synthetic study framing to measured evidence requires human review, provenance review, public boundary review, and claim-language approval before publication.
+
+## Batch 6 Legacy Migration Frame
+
+The legacy `energy-per-intelligence` and `epi-bench` repositories may inform study structure only as historical scaffolds. This repo is the umbrella home for public-safe EPI simulation framing.
+
+| Source context | Migrated frame | Boundary |
+| --- | --- | --- |
+| `energy-per-intelligence` | EPI purpose, field dictionary categories, assumption sections, and no-result posture. | No measured energy value, hardware behavior, workload identity, or result comparison. |
+| `epi-bench` | Benchmark-scaffold sections, validation questions, and report outline fields. | No executable harness proof, trace, benchmark output, ranking, or score. |
+
+Future study notes should use this frame for synthetic EPI work and should route claim language through `engineering-standards-and-validation`.

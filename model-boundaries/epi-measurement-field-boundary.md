@@ -42,3 +42,17 @@ Do not include:
 Field names may appear in synthetic templates and study frames. Field values require separate review before publication.
 
 Any public artifact that contains measured values, traces, model outputs, benchmark outputs, or result comparisons must be treated as a new evidence artifact and reviewed before release.
+
+## Batch 6 Additional Synthetic Fields
+
+These additional field names support public-safe EPI and release-readiness templates. They are labels only.
+
+| Field name | Meaning | Public boundary |
+| --- | --- | --- |
+| `input_boundary_class` | Synthetic category for whether inputs are synthetic or reviewed public-safe. | No private workload, corpus, source path, or customer context. |
+| `artifact_status` | Synthetic category for template, scaffold, reviewed, or held status. | No artifact existence implied. |
+| `claim_gate_state` | Synthetic category for whether a stronger claim is blocked, pending review, or approved by humans. | No approval implied by default. |
+| `release_surface_state` | Synthetic category for whether external release-surface activity is absent or separately reviewed. | No external metadata or hosted artifact represented. |
+| `review_required_reason` | Synthetic note explaining why human review is required. | No private finding, incident, trace, or result included. |
+
+These field names may be used by template docs in `data-model-infrastructure` and `engineering-deliverables-template` when they remain value-free.
