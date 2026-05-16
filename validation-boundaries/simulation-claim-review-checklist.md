@@ -8,4 +8,5 @@ Status: scaffolded
 - [ ] Does it state what this proves?
 - [ ] Does it state what this does not prove?
 - [ ] Is human review required before profile or proof-stack routing?
-
+- [ ] If EPI language appears, does it remain synthetic, scaffolded, and no-result?
+- [ ] If EPI fields appear, are they field names only with no measured values, raw traces, model identifiers, or benchmark outputs?
